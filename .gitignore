@@ -1,0 +1,21 @@
+﻿# Build artifacts
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
