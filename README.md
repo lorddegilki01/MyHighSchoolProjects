@@ -4,6 +4,10 @@ A GitHub-ready portfolio of desktop applications built with C# WinForms, .NET 8 
 
 Maintainer: **Efe** (`whoisefe`)
 
+## School Requirement
+
+These projects were prepared as **high school assignments**, and using **C# + .NET + MySQL** was mandatory.
+
 ## Included Projects
 
 | Project | Focus | Tech Stack | Database Script | Documentation |
@@ -34,16 +38,15 @@ Maintainer: **Efe** (`whoisefe`)
 4. Run the project SQL script from the `database` folder.
 5. Build and run.
 
-## Demo Accounts
+## Verified Demo Accounts
 
 | Project | Admin / Manager | User |
 |---|---|---|
-| Mini E-Ticaret | `Sistem Yöneticisi` / `Admin123!` | `Demo Kullanıcı` / `Kullanici123!` |
-| Müzik Kütüphane | `yonetici@muzik.local` / `Yonetici123!` | `kullanici@muzik.local` / `Kullanici123!` |
-| Kütüphane Projesi | `admin` / `Admin123!` | `kullanici` / `Kullanici123!` |
+| Mini E-Ticaret | `Username: Sistem Yöneticisi` / `Admin123!` | `Username: Demo Kullanıcı` / `Kullanici123!` |
+| Müzik Kütüphane | `Email: yonetici@muzik.local` / `Yonetici123!` | `Email: kullanici@muzik.local` / `Kullanici123!` |
+| Kütüphane Projesi | `Username: admin` / `Admin123!` | `Username: kullanici` / `Kullanici123!` |
 
 ## License
 
 Licensed under the [MIT License](./LICENSE).
 Turkish summary: [LICENSE_TR.md](./LICENSE_TR.md)
-

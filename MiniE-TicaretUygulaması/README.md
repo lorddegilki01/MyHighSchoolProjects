@@ -2,6 +2,10 @@
 
 Mini E-Ticaret Uygulaması is a role-based desktop shopping system built with C# WinForms, .NET 8 and MySQL.
 
+## School Requirement
+
+This project is part of a high school assignment and the use of **C# + .NET + MySQL** is mandatory.
+
 ## Core Features
 
 - Secure login with hashed passwords
@@ -40,10 +44,10 @@ Seed policy: each main table is pre-filled with **200 rows**.
 1. Open `MiniE-TicaretUygulaması.sln`.
 2. Build and run in Visual Studio.
 
-## Demo Accounts
+## Verified Demo Accounts
 
-- Admin: `Sistem Yöneticisi` / `Admin123!`
-- Kullanıcı: `Demo Kullanıcı` / `Kullanici123!`
+- Admin (Username): `Sistem Yöneticisi` / `Admin123!`
+- User (Username): `Demo Kullanıcı` / `Kullanici123!`
 
 ## Notes
 

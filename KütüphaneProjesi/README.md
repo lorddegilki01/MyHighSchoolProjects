@@ -2,6 +2,10 @@
 
 A role-based desktop library management application built with C# WinForms, .NET 8 and MySQL.
 
+## School Requirement
+
+This project is part of a high school assignment and the use of **C# + .NET + MySQL** is mandatory.
+
 ## Core Features
 
 - Login with user roles (`Yonetici` / `Kullanici`)
@@ -45,10 +49,10 @@ Seed policy: each main table contains **200 rows**.
 1. Open `KütüphaneProjesi.sln`.
 2. Build and run with Visual Studio.
 
-## Demo Accounts
+## Verified Demo Accounts
 
-- `admin` / `Admin123!`
-- `kullanici` / `Kullanici123!`
+- Admin (Username): `admin` / `Admin123!`
+- User (Username): `kullanici` / `Kullanici123!`
 
 ## Notes
 

@@ -2,6 +2,10 @@
 
 C# WinForms, .NET 8 ve MySQL ile geliştirilmiş rol tabanlı panellere sahip masaüstü müzik kütüphane uygulaması.
 
+## Okul Zorunluluğu
+
+Bu proje lise kapsamında hazırlanmıştır ve **C# + .NET + MySQL** kullanımı zorunludur.
+
 ## Temel Özellikler
 
 - Hashlenmiş şifre ile güvenli giriş
@@ -42,10 +46,10 @@ Seed standardı: her ana tabloda **200 kayıt** bulunur.
 1. `MüzikKütüphaneUygulaması.sln` dosyasını açın.
 2. Visual Studio üzerinden build alıp çalıştırın.
 
-## Demo Hesaplar
+## Doğrulanmış Demo Hesaplar
 
-- Yönetici: `yonetici@muzik.local` / `Yonetici123!`
-- Kullanıcı: `kullanici@muzik.local` / `Kullanici123!`
+- Yönetici (E-posta): `yonetici@muzik.local` / `Yonetici123!`
+- Kullanıcı (E-posta): `kullanici@muzik.local` / `Kullanici123!`
 
 ## Notlar
 

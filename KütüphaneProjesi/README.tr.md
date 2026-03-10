@@ -2,6 +2,10 @@
 
 C# WinForms, .NET 8 ve MySQL ile geliştirilmiş rol tabanlı masaüstü kütüphane yönetim uygulaması.
 
+## Okul Zorunluluğu
+
+Bu proje lise kapsamında hazırlanmıştır ve **C# + .NET + MySQL** kullanımı zorunludur.
+
 ## Temel Özellikler
 
 - Rol bazlı giriş (`Yonetici` / `Kullanici`)
@@ -45,10 +49,10 @@ Seed standardı: her ana tablo için **200 kayıt** hazırlanmıştır.
 1. `KütüphaneProjesi.sln` dosyasını açın.
 2. Visual Studio üzerinden build alıp çalıştırın.
 
-## Demo Hesaplar
+## Doğrulanmış Demo Hesaplar
 
-- `admin` / `Admin123!`
-- `kullanici` / `Kullanici123!`
+- Yönetici (Kullanıcı adı): `admin` / `Admin123!`
+- Kullanıcı (Kullanıcı adı): `kullanici` / `Kullanici123!`
 
 ## Notlar
 

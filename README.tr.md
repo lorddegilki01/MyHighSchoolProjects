@@ -4,6 +4,10 @@ C# WinForms, .NET 8 ve MySQL ile geliştirilen masaüstü lise projelerimden olu
 
 Sorumlu geliştirici: **Efe** (`whoisefe`)
 
+## Okul Zorunluluğu
+
+Bu projeler **lise proje/ödev** kapsamında hazırlanmıştır ve **C# + .NET + MySQL** kullanımı zorunludur.
+
 ## İçerikteki Projeler
 
 | Proje | Odak | Teknoloji | Veritabanı Scripti | Dokümantasyon |
@@ -34,16 +38,15 @@ Sorumlu geliştirici: **Efe** (`whoisefe`)
 4. `database` klasöründeki SQL scriptini çalıştırın.
 5. Build alıp çalıştırın.
 
-## Demo Hesaplar
+## Doğrulanmış Demo Hesaplar
 
 | Proje | Yönetici | Kullanıcı |
 |---|---|---|
-| Mini E-Ticaret | `Sistem Yöneticisi` / `Admin123!` | `Demo Kullanıcı` / `Kullanici123!` |
-| Müzik Kütüphane | `yonetici@muzik.local` / `Yonetici123!` | `kullanici@muzik.local` / `Kullanici123!` |
-| Kütüphane Projesi | `admin` / `Admin123!` | `kullanici` / `Kullanici123!` |
+| Mini E-Ticaret | `Kullanıcı adı: Sistem Yöneticisi` / `Admin123!` | `Kullanıcı adı: Demo Kullanıcı` / `Kullanici123!` |
+| Müzik Kütüphane | `E-posta: yonetici@muzik.local` / `Yonetici123!` | `E-posta: kullanici@muzik.local` / `Kullanici123!` |
+| Kütüphane Projesi | `Kullanıcı adı: admin` / `Admin123!` | `Kullanıcı adı: kullanici` / `Kullanici123!` |
 
 ## Lisans
 
 Bu depo [MIT Lisansı](./LICENSE) ile lisanslanmıştır.
 Türkçe bilgilendirme: [LICENSE_TR.md](./LICENSE_TR.md)
-

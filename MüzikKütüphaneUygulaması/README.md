@@ -2,6 +2,10 @@
 
 A desktop music library application with role-based panels, built with C# WinForms, .NET 8 and MySQL.
 
+## School Requirement
+
+This project is part of a high school assignment and the use of **C# + .NET + MySQL** is mandatory.
+
 ## Core Features
 
 - Secure login with hashed passwords
@@ -42,10 +46,10 @@ Seed policy: each main table contains **200 rows**.
 1. Open `MüzikKütüphaneUygulaması.sln`.
 2. Build and run in Visual Studio.
 
-## Demo Accounts
+## Verified Demo Accounts
 
-- Manager: `yonetici@muzik.local` / `Yonetici123!`
-- User: `kullanici@muzik.local` / `Kullanici123!`
+- Manager (Email): `yonetici@muzik.local` / `Yonetici123!`
+- User (Email): `kullanici@muzik.local` / `Kullanici123!`
 
 ## Notes
 
